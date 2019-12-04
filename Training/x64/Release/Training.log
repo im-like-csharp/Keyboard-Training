@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c:\users\admin\documents\visual studio 2015\projects\training\training\choose.h(121): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+LINK : fatal error LNK1561: точка входа должна быть определена

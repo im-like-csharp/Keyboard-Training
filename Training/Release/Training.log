@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c:\users\admin\documents\visual studio 2015\projects\training\training\choose.h(122): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Training.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\Projects\Training\Release\Training.exe
+  Training.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\Projects\Training\Release\Training.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\i\Projects\Training\Training\choose.h(122,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Training.vcxproj -> C:\i\Projects\Training\Debug\Training.exe
